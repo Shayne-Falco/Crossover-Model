@@ -27,3 +27,11 @@ In these hot spots the removal of morphogen from the domain is reduced by half a
 These two changes were aimed at increasing the time it takes for the morphogen to leave these hot spots which would indirectly result in more activator being produced. 
 
 ![DSBPatterning](https://github.com/Shayne-Falco/Crossover-Model/assets/96263317/9796d76d-c655-4f4f-8079-f40445e14a0d)
+
+# Final Results
+
+Using this method the peak in activator concentration was able to be moved from the center of the domain to one of the arms. 
+This shows that there could exist a mechanism that mimics the patterning of the Turing reaction-diffusion model to position a single crossover on the arms of the SC. 
+Further, our model indicates that such a mechanism would rely strongly on the initial DSB pattern.
+
+![image](https://github.com/Shayne-Falco/Crossover-Model/assets/96263317/5fd19cf5-ec45-49b7-8b89-442b15f54bb8)
